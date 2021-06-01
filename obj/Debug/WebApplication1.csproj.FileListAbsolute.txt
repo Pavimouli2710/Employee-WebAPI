@@ -1,0 +1,15 @@
+D:\Final src\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Final src\WebApplication1\bin\WebApplication1.dll.config
+D:\Final src\WebApplication1\bin\WebApplication1.dll
+D:\Final src\WebApplication1\bin\WebApplication1.pdb
+D:\Final src\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Final src\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\Final src\WebApplication1\bin\System.Web.Http.dll
+D:\Final src\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\Final src\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Final src\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\Final src\WebApplication1\bin\System.Web.Http.xml
+D:\Final src\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\Final src\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Final src\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Final src\WebApplication1\obj\Debug\WebApplication1.pdb
