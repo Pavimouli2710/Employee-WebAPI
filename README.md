@@ -7,4 +7,6 @@ Steps to Do:
 6. And host this project in IIS 
 7. In Api controller use this API methods.
 
-Once the Project is opened then do the Build the project.
+Once the Project is opened In the Web.config file set the database details in the connection string.
+Map the project in the IIS to connect the Web API.
+Then do the Build in the project.
